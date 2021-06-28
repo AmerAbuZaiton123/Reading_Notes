@@ -2,8 +2,8 @@
 
 How the Markdown format makes styled collaborative editing easy
 How Markdown differs from traditional formatting approaches
-How to use Markdown to format text
-How to leverage GitHub’s automatic Markdown rendering
+-How to use Markdown to format text
+-How to leverage GitHub’s automatic Markdown rendering
 How to apply GitHub’s unique Markdown extensions
 
 What is Markdown?
@@ -16,10 +16,10 @@ Markdown is a way to style text on the web. You control the display of the docum
 
 Lists
 Unordered
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+- Item 1
+- Item 2
+  - Item 2a
+  - Item 2b
 Ordered
 1. Item 1
 1. Item 2
