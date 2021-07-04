@@ -29,7 +29,7 @@ A bitwise operator treats their operands as a set of 32 bits (zeros and ones), r
 
 # Loops and iteration
 
-### for statement
+###  for statement
 >A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
 
 >A for statement looks as follows:
@@ -37,7 +37,7 @@ A bitwise operator treats their operands as a set of 32 bits (zeros and ones), r
 >for ([initialExpression]; [conditionExpression]; [incrementExpression])
   statement
 
- ### do...while statement
+ ###  do...while statement
 
 >The do...while statement repeats until a specified condition evaluates to false.
 
@@ -49,7 +49,7 @@ A bitwise operator treats their operands as a set of 32 bits (zeros and ones), r
 > while (condition);
 
 
-### while statement
+###  while statement
 >A while statement executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
 
 >while (condition)
@@ -57,7 +57,7 @@ A bitwise operator treats their operands as a set of 32 bits (zeros and ones), r
 
 
 
-  ### for...in statement
+  ###  for...in statement
 >The for...in statement iterates a specified variable over all the enumerable properties of an object. For each distinct property, JavaScript executes the specified statements. A for...in statement looks as follows:
 
 >for (variable in object)
