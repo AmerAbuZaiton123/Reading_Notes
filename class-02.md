@@ -41,22 +41,22 @@ This rule indicates that all p tage
 elements should be shown in the 
 Arial typeface 
 Selectors indicate which 
-element the rule applies to. 
+element the rule applies to 
 The same rule can apply to 
 more than one element if you 
 separate the element names 
-with commas.
+with commas
 Declarations indicate how 
 the elements referred to in 
-the selector should be styled. 
+the selector should be styled 
 Declarations are split into two 
-parts (a property and a value) 
+parts a property and a value 
 and are separated by a colon
 
 ### CSS Properties Affect How Elements Are Displayed
 
-This rule indicates that all <h1>, 
-<h2> and <h3> elements 
+This rule indicates that all h1 tage 
+h2 tage and h3 tage  elements 
 should be shown in the Arial 
 typeface, in a yellow color.
 Properties indicate the aspects 
