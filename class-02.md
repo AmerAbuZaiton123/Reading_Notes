@@ -75,4 +75,43 @@ parts: a property and a value, separated by a colon. You can specify
 >several properties in one declaration, each separated by a semi-colon.
 
 
-#javascript
+# javascript
+
+### how  to use object & methods 
+document.write('');
+ -document is object 
+ -dot is member operator 
+ -(here parameter )
+
+ ## JAVASCRIPT RUNS WHERE IT IS FOUND IN THE HTML
+  It is best to keep JavaScript code in its own JavaScript 
+file. JavaScript files are text files (like HTML pages and 
+CSS style sheets), but they have the . j s extension. 
+The HTML <script> element is used in HTML pages 
+to tell the browser to load the JavaScript file (rather like 
+the <link> element can be used to load a CSS file). 
+If you view the source code of the page in the browser, 
+the JavaScript will not have changed the HTML, 
+because the script works with the model of the web 
+page that the browser has created.
+
+
+### how declear varible 
+
+- set varible type (var,let,const)
+- after that we set (name for variable)
+
+### how set value for variable 
+we set value  by assign  
+like 
+var name="amer"
+we set value by assign 
+  
+
+### SWITCH STATEMENTS 
+A switch statement starts with a 
+variable called the switch value. 
+Each case indicates a possible 
+value for this variable and the 
+code that should run if the 
+variable matches that value. 
