@@ -27,7 +27,7 @@ Read page in 201 | UEL
 ------------ | -------------
  Class-01 | [GoTo](https://amerabuzaiton123.github.io/Reading_Notes/class-01)
  class-02|  [GoTo](https://amerabuzaiton123.github.io/Reading_Notes/class-02)
- class-02|  [GoTo](https://amerabuzaiton123.github.io/Reading_Notes/class-03)
+ class-03|  [GoTo](https://amerabuzaiton123.github.io/Reading_Notes/class-03)
 
 Project Name | Date Edit | Description |  Url     
 ------------ |-----------|-------------|-------------
