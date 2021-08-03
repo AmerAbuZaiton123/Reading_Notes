@@ -30,7 +30,10 @@ Read page in 201 | UEL
  class-03|  [GoTo](https://amerabuzaiton123.github.io/Reading_Notes/class-03)
   class-04|  [GoTo](https://amerabuzaiton123.github.io/Reading_Notes/class-04)
   class-05|  [GoTo](https://amerabuzaiton123.github.io/Reading_Notes/class-05)
-
+  class-06|[GoTo](https://amerabuzaiton123.github.io/Reading_Notes/class-06)
+   class-07|[GoTo](https://amerabuzaiton123.github.io/Reading_Notes/class-07)
+    class-08|[GoTo](https://amerabuzaiton123.github.io/Reading_Notes/class-08)
+ 
 Project Name | Date Edit | Description |  Url     
 ------------ |-----------|-------------|-------------
  AboutME     |26/7/2021  | Add new project             |[GoTo]( https://github.com/AmerAbuZaiton123/AboutMEc)
