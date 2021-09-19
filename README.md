@@ -45,9 +45,9 @@ hornedbeast
   
   Code 301 - Intermediate Software Development | UEL
 ------------ | -------------
- Class-01 | [GoTo]()
- class-02|  [GoTo]()
- class-03|  [GoTo]()
+ Class-01 | [GoTo](https://github.com/AmerAbuZaiton123/hornedbeast/tree/class1)
+ class-02|  [GoTo](https://github.com/AmerAbuZaiton123/hornedbeast1/tree/class3)
+ class-03|  [GoTo](https://github.com/AmerAbuZaiton123/hornedbeast1/tree/class3)
   class-04|  [GoTo]()
   class-05|  [GoTo]()
   class-06|[GoTo]()
@@ -61,7 +61,7 @@ hornedbeast
  
 301 Course Project| Description |  Url     
 ------------ |-------------|-------------
-hornedbeast  | class1 |[GoTo]( https://github.com/AmerAbuZaiton123/hornedbeast/tree/class1)
-           
-hornedbeast  | class2 |[GoTo](https://github.com/AmerAbuZaiton123/hornedbeast/tree/class2)
+hornedbeast  | branch1 |[GoTo]( https://github.com/AmerAbuZaiton123/hornedbeast/tree/class1)           
+hornedbeast  | branch2 |[GoTo](https://github.com/AmerAbuZaiton123/hornedbeast1/tree/class3)
+hornedbeast  | branch3 |[GoTo](https://github.com/AmerAbuZaiton123/hornedbeast1/tree/class3)
 
