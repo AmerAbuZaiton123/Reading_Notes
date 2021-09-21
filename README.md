@@ -48,7 +48,7 @@ hornedbeast
  Class-01 | [GoTo](https://github.com/AmerAbuZaiton123/hornedbeast/tree/class1)
  class-02|  [GoTo](https://github.com/AmerAbuZaiton123/hornedbeast1/tree/class3)
  class-03|  [GoTo](https://github.com/AmerAbuZaiton123/hornedbeast1/tree/class3)
-  class-04|  [GoTo]()
+  class-04|  [GoTo](https://github.com/AmerAbuZaiton123/hornedbeast1/tree/class4)
   class-05|  [GoTo]()
   class-06|[GoTo]()
   class-07|[GoTo]()
